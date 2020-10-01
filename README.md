@@ -1,7 +1,7 @@
 # cpp
 
 - <b>meikai-cpp (beginner)</b><br>
-prog01 ~ prog14 <br>
+prog01 ~ prog14. <br>
 
   - prog01(画面への出力とキーボードからの入力)<br>
   
